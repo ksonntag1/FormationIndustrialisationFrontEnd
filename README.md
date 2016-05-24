@@ -1,7 +1,7 @@
 Site Vitrine
 ============
 
-Projet de la formation qui utilise
+Projet de la formation qui utilise :
 * bower
 * bootstrap
 * less
