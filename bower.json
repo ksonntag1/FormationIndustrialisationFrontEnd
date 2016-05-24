@@ -1,0 +1,12 @@
+{
+  "name": "formation_frontend_ks",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^1.12.4"
+  }
+}
